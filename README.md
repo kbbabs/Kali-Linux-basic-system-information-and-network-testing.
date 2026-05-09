@@ -1,4 +1,4 @@
 # Kali-Linux-basic-system-information-and-network-testing.
 In this project, I conducted an exploration of the Kali Linux environment, examining both its operating system and hardware details through commands such as whoami, hostname, uname -a, free -h, df -h, and uptime.
-I then performed a series of file and directory operations, including creating, deleting, moving, copying, and removing file content. Additionally, I installed system updates and managed packages using Advanced Package Tools (APT).
+I then performed a series of file and directory operations, including creating, deleting, moving, copying, and removing file content. Additionally, I installed and removed system updates and managed packages using Advanced Package Tools (APT).
 To verify network connectivity, I executed ping tests; sending two packets to Google’s public DNS server (8.8.8.8) and four packets to Google.com. These tests highlighted how factors such as server differences, DNS lookup times, and packet counts can influence the average round-trip time of each ping.
